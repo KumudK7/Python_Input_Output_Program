@@ -1,0 +1,11 @@
+1Python
+Count
+Numbers 
+
+4#@%
+5Symbols
+
+6 1Open the file in read mode
+7 2Read 
+8 3Get 
+9 4Find 
