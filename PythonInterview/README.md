@@ -35,5 +35,6 @@ Numbers
 7 2Read 
 8 3Get 
 9 4Find 
-Utility output for above file enter image description here
+
+Utility output for above file, screenshot is attached with files named "PythonInterviewOutput"
 
